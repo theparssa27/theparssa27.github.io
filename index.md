@@ -1,7 +1,7 @@
 ---
 layout: default
-title: MAIN PAGE TITLE
-description: MAIN PAGE DESCRIPTION
+title: Digital Connect-4 
+description: Welcome to the Connect-4 Portal
 ---
 
-# EE-EMRGE PROJECT NAME
+# EE-EMERGE PROJECT NAME
