@@ -31,7 +31,7 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: $body-text-color;
+  color: rgba(0, 0, 0, 0.9);
 }
 
 #skip-to-content {
@@ -221,7 +221,7 @@ a {
     padding: 2px 4px;
     font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
     font-size: 0.9rem;
-    color: $code-text-color;
+    color: rgba(0, 0, 0, 0.9);
     background-color: $code-bg-color;
     border-radius: 0.3rem;
   }
@@ -231,7 +231,7 @@ a {
     margin-top: 0;
     margin-bottom: 1rem;
     font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
-    color: $code-text-color;
+    color: rgba(0, 0, 0, 0.9);
     word-wrap: normal;
     background-color: $code-bg-color;
     border: solid 1px $border-color;
