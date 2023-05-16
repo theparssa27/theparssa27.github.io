@@ -1,4 +1,7 @@
 # Mechanical Design
+For the mechanical design of the game board, we decided to use a modular design which involves first designing and testing a single cell. Once the design for one cell is complete, duplicates are created and assembled together to build the full 6x6 game board with 36 total cells. This design is advantageous because it is easy to assemble and resize depending on what dimensions of connect-4 users want to play. Also, the baord can be expanded or shrunken in dimensions to play connect-n. 
+
+# Cell 3D Model
 
 Rough draft of this section
 <li>Lots... and lots... of 3D printing</li>
