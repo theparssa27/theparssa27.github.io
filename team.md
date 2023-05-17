@@ -1,5 +1,5 @@
 # Team
-
+<img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Team.jpg?raw=true" height="400">
 | | |
 |:---------------------------------------------------------:|:---------------------------------------------------:|
 |**Fatima Shaik** <br/> **Team Leader** <br/> B.S. Computer Engineering June 2025 <br/> ... <br/> [LinkedIn](https://linkedIn.com) & [GitHub](https://github.com) |<img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Fatima.jpg?raw=true" height="300">|
