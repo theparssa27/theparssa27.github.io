@@ -3,12 +3,12 @@ For the mechanical design of the game board, we decided to use a modular design 
 
 <h1>Cell 3D Model</h1>
 <img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/3D_Cell.png?raw=true" height="300">
-# Board Assembly
+<h1>Board Assembly</h1>
 <img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/2_Cells.jpg?raw=true" height="300">
 <img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/2_cells_prototype.jpg?raw=true" height="300">
 <img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/full_board.jpg?raw=true" height="300">
 <img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/full_game.jpg?raw=true" height="300">
-# Stand Construction
+<h1>Stand Construction</h1>
 ...
 
 Rough draft of this section
