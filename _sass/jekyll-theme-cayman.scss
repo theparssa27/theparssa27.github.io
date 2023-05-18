@@ -106,20 +106,11 @@ a {
 }
 
 .page-header {
-  //Original Code:
   color: rgba(0, 0, 0, 0.9);
   text-align: center;
-  //Hot Pink: 252, 3, 207
+//   Hot Pink: 252, 3, 207
   background-color: rgba(252, 3, 207, 0.5);
-  background-image: linear-gradient(120deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9));
-}
-
-//Header Test:
-.header {
-  //Original Code:
-  text-align: center;
-  background-color: rgba(0, 0, 0, 0.5);
-}
+  background-image: linear-gradient(120deg, rgba(255, 0, 0, 0.5), rgba(0, 0, 0, 0.9));
 
   @include large {
     padding: 5rem 6rem;
