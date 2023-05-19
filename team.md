@@ -1,6 +1,6 @@
 # Team
 
-<img class= "responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Team.jpg?raw=true" height="400">
+<img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Team.jpg?raw=true" height="400">
 <!-- original: <img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Team.jpg?raw=true" height="400"> -->
 | | |
 |:---------------------------------------------------------:|:---------------------------------------------------:|
