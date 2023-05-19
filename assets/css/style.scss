@@ -12,10 +12,9 @@ $header-bg-color-secondary: #00ddff !default;
 .header {
 //   padding: 60px;
   text-align: center;
-  background-image: url("pictures/websitebanner.jpg");
-  
   color: white;
   font-size: 30px;
+  background-image: url("theparssa27.github.io/pictures/websitebanner.jpg");
 }
 
 @import "{{ site.theme }}";
