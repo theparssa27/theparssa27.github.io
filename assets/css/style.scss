@@ -19,9 +19,9 @@ $header-bg-color-secondary: #00ddff !default;
   background-size: contain;
 }
 
-.class{
-  width: 50%;
-  height: 50%;
+.logo{
+  width: 10%;
+  height: auto;
 }
 
 @import "{{ site.theme }}";
