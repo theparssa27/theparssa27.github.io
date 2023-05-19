@@ -25,4 +25,10 @@ $header-bg-color-secondary: #00ddff !default;
   height: auto;
 }
 
+.img{
+  text-align: center;
+  width: 100%;
+  height: auto;
+}
+
 @import "{{ site.theme }}";
