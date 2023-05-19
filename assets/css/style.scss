@@ -15,6 +15,13 @@ $header-bg-color-secondary: #00ddff !default;
   color: white;
   font-size: 30px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/websitebanner.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.class{
+  width: 50%;
+  height: 50%;
 }
 
 @import "{{ site.theme }}";
