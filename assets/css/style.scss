@@ -10,11 +10,24 @@ $header-bg-color-secondary: #00ddff !default;
 
 //Header Customization:
 .header {
-  padding: 60px;
+//   padding: 60px;
   text-align: center;
   background: #1abc9c;
   color: white;
   font-size: 30px;
+//   Hot Pink: 252, 3, 207
+
+  @include large {
+    padding: 5rem 6rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
 }
 
 @import "{{ site.theme }}";
