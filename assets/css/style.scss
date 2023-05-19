@@ -12,22 +12,9 @@ $header-bg-color-secondary: #00ddff !default;
 .header {
 //   padding: 60px;
   text-align: center;
-  background: #1abc9c;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pictures/websitebanner.jpg");
   color: white;
   font-size: 30px;
-//   Hot Pink: 252, 3, 207
-
-  @include large {
-    padding: 5rem 6rem;
-  }
-
-  @include medium {
-    padding: 3rem 4rem;
-  }
-
-  @include small {
-    padding: 2rem 1rem;
-  }
 }
 
 @import "{{ site.theme }}";
