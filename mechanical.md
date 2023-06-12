@@ -1,5 +1,5 @@
 # Mechanical Design
-For the mechanical design of the game board, we decided to use a modular design which involves first designing and testing a single cell. Once the design for one cell is complete, duplicates are created and assembled together to build the full 6x6 game board with 36 total cells. This design is advantageous because it is easy to assemble and resize depending on what dimensions of connect-4 users want to play. Also, the baord can be expanded or shrunken in dimensions to play connect-n. Each cell is a full enclosure with a removable lid that can house the LED PCB, the laser cut acrylic, and metal pins to connect to other cells. Also, each cell has the necessary openings for cell-to-cell wire connections and for users to see the lit up acrylic.
+For the mechanical design of the game board, we decided to use a modular design which involves first designing and testing a single cell. Once the design for one cell is complete, duplicates are created and assembled together to build the full 6x6 game board with 36 total cells. This design is advantageous because it is easy to assemble and resize depending on what dimensions of Connect-Four™ users want to play. Also, the baord can be expanded or shrunken in dimensions to play connect-n. Each cell is a full enclosure with a removable lid that can house the LED PCB, the laser cut acrylic, and metal pins to connect to other cells. Also, each cell has the necessary openings for cell-to-cell wire connections and for users to see the lit up acrylic.
 
 <h1>Board Assembly & 3D Cell Model</h1>
 To bring our modular vision into reality, 3D printing was the most viable option. Designing the cell components was no easy task as no two 3D printed cells would yield the same dimensions and print quality. The problem of combining the components into a 6x6 square while maintaining integrity further proved to be a challenge. To solve this, we implemented a design that housed eight holes for half-inch sized metal dowels as a means to hold everything together on every square of each cell. 
@@ -34,6 +34,13 @@ Our acrylic was laser-cut to easily combine with the cell design to sustain a pe
 
 
 <h1>Stand Construction</h1>
+Prototyping with a simple 2 x 2 mini-design, a triangular stand was chosen for optimal stabilization with safety in mind. The last thing that we wanted was for the board to tip over in the middle of a game, potentially injuring the player especially kids. This design was considered for its doublesided-ness similar to the traditional Connect-Four™ game; avoiding propping up the board on a wall or laying it flat on a table.
+<img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/stand.png?raw=true" height="300">
+<img src="https://cdn.discordapp.com/attachments/944292252920971304/1117767157573500988/image-removebg-preview_8.png" height="300">
+
+
+
+
 ...
 
 Rough draft of this section
