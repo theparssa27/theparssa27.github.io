@@ -1,6 +1,5 @@
 # Team
 
-<img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Team.jpg?raw=true" height="400">
 <!-- original: <img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Team.jpg?raw=true" height="400"> -->
 
 | | |
@@ -13,3 +12,5 @@
 |**Ziyad Samarah** <br/> B.S. Electrical Engineering June 2025 <br/> Focus: Hardware Design <br/> <a href="https://www.linkedin.com/in/ziyad-samarah-b267a8277/" target="_blank">LinkedIn</a> & [GitHub](https://github.com) | <img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Ziyad.jpg?raw=true" height="300"> |
 |**Wahhaj Malik** <br/> B.S. Electrical Engineering June 2024 <br/> Focus: Software Design <br/> <a href="https://www.linkedin.com/in/wahhajmalik/" target="_blank">LinkedIn</a> & [GitHub](https://github.com) | <img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Wahhaj.jpg?raw=true" height="300">|
 |**Sebastian Medina** <br/> B.S. Electrical Engineering June 2025 <br/> Focus: Testing <br/> <a href="https://www.linkedin.com/in/sebastian-medina-27a796276/" target="_blank">LinkedIn</a> & [GitHub](https://github.com) |<img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Sebastian.jpg?raw=true" height="300">|
+
+<img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Team.jpg?raw=true" height="400">
