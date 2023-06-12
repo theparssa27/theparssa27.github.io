@@ -7,11 +7,13 @@ To bring our modular vision into reality, 3D printing was the most viable option
 
 <h1>1 x 2 Cell Configuration</h1>
 <img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/2_cells_prototype.jpg?raw=true" height="300">
+<img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/2_Cells.png?raw=true" height="300">
+
+
+<h1>6 x 6 Cell Configuration</h1>
 <img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/full_board.jpg?raw=true" height="300">
-<img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/full_game.jpg?raw=true" height="300">
 
 <h1>Cell 3D Model</h1>
-<img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/2_Cells.png?raw=true" height="300">
 
 <h1>Stand Construction</h1>
 ...
