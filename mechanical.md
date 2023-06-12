@@ -3,6 +3,7 @@ For the mechanical design of the game board, we decided to use a modular design 
 
 <h1>Board Assembly & 3D Cell Model</h1>
 To bring our modular vision into reality, 3D printing was the most viable option. Designing the cell components was no easy task as no two 3D printed cells would yield the same dimensions and print quality. The problem of combining the components into a 6x6 square while maintaining integrity further proved to be a challenge. To solve this, we implemented a design that housed eight holes for half-inch sized metal dowels as a means to hold everything together on every square of each cell. 
+
 <img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/3D_Cell.png?raw=true" height="300">
 
 <h1>Cells Printing...</h1>
@@ -22,9 +23,12 @@ To bring our modular vision into reality, 3D printing was the most viable option
 <h1>Acrylic Design</h1>
 Our acrylic was laser-cut to easily combine with the cell design to sustain a perfect friction fit. This is housed inside the cells to consistently disperse the LED's illumination to make the game visually appealing and vibrant to play! 
 
+
 <img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/acrylick.jpg?raw=true" height="300">
 
 (Easter Egg: The binary numbers on the left face of cube stand for "EEE C4", EE-Emerge Connect-4! The right face is just some circuits jargon.)
+
+
 <img src="https://cdn.discordapp.com/attachments/944292252920971304/1117764323834597467/IMG_0545.jpg" height="300">
 
 
