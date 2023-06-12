@@ -36,16 +36,10 @@ Our acrylic was laser-cut to easily combine with the cell design to sustain a pe
 <h1>Stand Construction</h1>
 Prototyping with a simple 2 x 2 mini-design, a triangular stand was chosen for optimal stabilization with safety in mind. The last thing that we wanted was for the board to tip over in the middle of a game, potentially injuring the player especially kids. This design was considered for its doublesided-ness similar to the traditional Connect-Four™ game; avoiding propping up the board on a wall or laying it flat on a table.
 <img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/stand.png?raw=true" height="300">
+
+<h1>Final Design</h1>
 <img src="https://cdn.discordapp.com/attachments/944292252920971304/1117767157573500988/image-removebg-preview_8.png" height="600">
 
 
 
 
-...
-
-Rough draft of this section
-<li>Lots... and lots... of 3D printing</li>
-To bring our vision to life, we embarked on an extensive 3D printing journey, meticulously crafting each component of the electronic Connect-Four game. With patience and precision, we printed and assembled the intricate parts, ensuring the highest quality and durability for an unforgettable gaming experience.
-<li>Hardships fitting together each panel, describe the process we undertook to achieve the final product</li>
-<li>Laser etching and cutting acrylic for tokens</li>
-<li>(include images of CAD design, 3D printing process, laser cutting process, finished product respectively, entirely finished connect four)</li>
