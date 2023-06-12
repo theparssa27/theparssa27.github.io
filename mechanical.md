@@ -3,7 +3,7 @@ For the mechanical design of the game board, we decided to use a modular design 
 
 <h1>Board Assembly & 3D Cell Model</h1>
 To bring our modular vision into reality, 3D printing was the most viable option. Designing the cell components was no easy task as no two 3D printed cells would yield the same dimensions and print quality. The problem of combining the components into a 6x6 square while maintaining integrity further proved to be a challenge. To solve this, we implemented a design that housed eight holes for half-inch sized metal dowels as a means to hold everything together on every square of each cell. 
-<br>
+<br><br>
 <img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/3D_Cell.png?raw=true" height="300">
 
 <h1>Cells Printing...</h1>
