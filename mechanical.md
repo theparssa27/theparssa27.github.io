@@ -22,7 +22,7 @@ To bring our modular vision into reality, 3D printing was the most viable option
 
 <h1>Acrylic Design</h1>
 Our acrylic was laser-cut to easily combine with the cell design to sustain a perfect friction fit. This is housed inside the cells to consistently disperse the LED's illumination to make the game visually appealing and vibrant to play! 
-
+<br>
 
 <img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/acrylick.jpg?raw=true" height="300">
 
