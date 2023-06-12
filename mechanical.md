@@ -24,7 +24,7 @@ Our acrylic was laser-cut to easily combine with the cell design to sustain a pe
 
 <img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/acrylick.jpg?raw=true" height="300">
 
-(Easter Egg: The binary numbers on the left face of cube stand for "EEE C4", EE-Emerge Connect-4! The circuit is just some circuits jargon)
+(Easter Egg: The binary numbers on the left face of cube stand for "EEE C4", EE-Emerge Connect-4! The right face is just some circuits jargon.)
 <img src="https://cdn.discordapp.com/attachments/944292252920971304/1117764323834597467/IMG_0545.jpg" height="300">
 
 
