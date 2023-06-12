@@ -3,6 +3,7 @@
 <img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Team.jpg?raw=true" height="400">
 <!-- original: <img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Team.jpg?raw=true" height="400"> -->
 
+| | |
 |:---------------------------------------------------------:|:---------------------------------------------------:|
 |**Fatima Shaik** <br/> **Team Leader** <br/> B.S. Computer Engineering June 2025 <br/> ... <br/> <a href="https://www.linkedin.com/in/fatima-shaik/" target="_blank">LinkedIn</a> & [GitHub](https://github.com/fatimazshaik) |<img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Fatima.jpg?raw=true" height="300">|
 |**Parssa Alimadad** <br/> **Team Leader** <br/> B.S. Electrical Engineering Computer Science June 2025 <br/> ... <br/> <a href="https://www.linkedin.com/in/parssa-alimadad/" target="_blank">LinkedIn</a> & [GitHub](https://github.com/theparssa27) |<img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Parssa.jpg?raw=true" height="300">|
