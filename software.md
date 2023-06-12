@@ -1,7 +1,7 @@
 # Software Design
 
 # Flowchart
-<img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/flowchartt.jpg?raw=true" height="300">
+<img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/flowchartt.jpg?raw=true" height="500">
 Rough draft of this section
 <li>Include TI MSP430 programming compenent (most to be written in hardware)</li>
 <li>Include flowcahrt for code </li>
