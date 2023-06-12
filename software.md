@@ -1,4 +1,7 @@
 # Software Design
+
+# Flowchart
+<img src="https://prnt.sc/g4hGJ-pvYa0b" height="300">
 Rough draft of this section
 <li>Include TI MSP430 programming compenent (most to be written in hardware)</li>
 <li>Include flowcahrt for code </li>
