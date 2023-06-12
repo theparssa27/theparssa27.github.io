@@ -38,7 +38,7 @@ Prototyping with a simple 2 x 2 mini-design, a triangular stand was chosen for o
 <img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/stand.png?raw=true" height="300">
 
 <h1>Final Design</h1>
-<img src="https://cdn.discordapp.com/attachments/944292252920971304/1117767157573500988/image-removebg-preview_8.png" height="600">
+<img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/image-removebg-preview%20(9).png?raw=true" height="600">
 
 
 
