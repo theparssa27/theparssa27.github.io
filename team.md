@@ -13,4 +13,13 @@
 |**Wahhaj Malik** <br/> B.S. Electrical Engineering <br/> June 2024 <br/> Discipline: Software Engineering <br/> <a href="https://www.linkedin.com/in/wahhajmalik/" target="_blank">LinkedIn</a> & [GitHub](https://github.com) | <img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Wahhaj.jpg?raw=true" height="200">|
 |**Sebastian Medina** <br/> B.S. Electrical Engineering <br/> June 2025 <br/> Discipline: Quality Control <br/> <a href="https://www.linkedin.com/in/sebastian-medina-27a796276/" target="_blank">LinkedIn</a> & [GitHub](https://github.com) |<img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Sebastian.jpg?raw=true" height="200">|
 
+# Gallery
 <img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Team.jpg?raw=true" height="400">
+
+# Picnic Day
+
+# Engineering Design Showcase
+<img class="responsive" src="https://cdn.discordapp.com/attachments/944292252920971304/1118222114990862428/IMG_0513.jpg" height="400">
+<img class="responsive" src="https://cdn.discordapp.com/attachments/944292252920971304/1118222116165259386/IMG_0507.jpg" height="400">
+<img class="responsive" src="https://cdn.discordapp.com/attachments/944292252920971304/1118222116630835231/IMG_0512.jpg" height="400">
+<img class="responsive" src="https://cdn.discordapp.com/attachments/944292252920971304/1118222579967201370/IMG_1662.jpeg" height="400">
