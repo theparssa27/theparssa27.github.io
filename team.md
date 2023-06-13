@@ -9,7 +9,7 @@ table, th, td {
 </style>
 <body>
 
-<h2>A basic HTML table</h2>
+# Team
 
 <table style="width:100%">
   <tr>
