@@ -24,9 +24,9 @@ To bring our modular vision into reality, 3D printing was the most viable option
 Our acrylic was laser-cut to easily combine with the cell design to sustain a perfect friction fit. This is housed inside the cells to consistently disperse the LED's illumination to make the game visually appealing and vibrant to play! 
 <br><br>
 
-<img class="center" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/acrylick.jpg?raw=true" height="300">
+<img class="center" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/EEconnectLogoWhite.png?raw=true">
 
-(Easter Egg: The binary numbers on the left face of cube stand for "EEE C4", EE-Emerge Connect-4! The right face is just some circuits jargon.)
+(Logo Design: Each face of the logo represents an element of our project. The binary numbers on the left face of cube stand for "EEE C4", EE-Emerge Connect-4! The right face is circuit symbols to represent the hardware design that went to this project. The upper face of the logo is a button representing thse user input of our project.)
 
 
 <img class="center" src="https://cdn.discordapp.com/attachments/944292252920971304/1117764323834597467/IMG_0545.jpg" height="300">
