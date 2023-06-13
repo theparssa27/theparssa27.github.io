@@ -35,10 +35,10 @@ Our acrylic was laser-cut to easily combine with the cell design to sustain a pe
 
 <h1>Stand Construction</h1>
 Prototyping with a simple 2 x 2 mini-design, a triangular stand was chosen for optimal stabilization with safety in mind. The last thing that we wanted was for the board to tip over in the middle of a game, potentially injuring the player especially kids. This design was considered for its doublesided-ness similar to the traditional Connect-Four™ game; avoiding propping up the board on a wall or laying it flat on a table. For the final design, black spray-painted quarter-inch plywood was used to completely reinforce the weight of our full design.
-<img class="center" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/stand.png?raw=true" height="300">
+<img class="center" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/stand.png?raw=true">
 
 <h1>Final Design</h1>
-<img class="center" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/showcaseBoard.jpg?raw=true" height="600">
+<img class="center" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/showcaseBoard.jpg?raw=true">
 
 
 
