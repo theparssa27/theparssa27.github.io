@@ -13,4 +13,4 @@
 |**Wahhaj Malik** <br/> B.S. Electrical Engineering <br/> June 2024 <br/> Discipline: Software Engineering <br/> <a href="https://www.linkedin.com/in/wahhajmalik/" target="_blank">LinkedIn</a> & [GitHub](https://github.com) | <img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Wahhaj.jpg?raw=true" height="200">|
 |**Sebastian Medina** <br/> B.S. Electrical Engineering <br/> June 2025 <br/> Discipline: Quality Control <br/> <a href="https://www.linkedin.com/in/sebastian-medina-27a796276/" target="_blank">LinkedIn</a> & [GitHub](https://github.com) |<img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Sebastian.jpg?raw=true" height="200">|
 
-<img class="center" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Team.jpg?raw=true" height="400">
+<img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Team.jpg?raw=true" height="400">
