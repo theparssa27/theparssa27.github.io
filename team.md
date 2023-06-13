@@ -1,6 +1,6 @@
 # Team
-<img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Team.jpg?raw=true" height="400">
 | | |
+<img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Team.jpg?raw=true" height="400">
 |:---------------------------------------------------------:|:---------------------------------------------------:|
 |**Fatima Shaik** <br/> **Team Leader** <br/> B.S. Computer Engineering <br/> June 2025 <br/> Discipline: Computer Systems: Architecture & Parallel Processing <br/> <a href="https://www.linkedin.com/in/fatima-shaik/" target="_blank">LinkedIn</a> & [GitHub](https://github.com/fatimazshaik) |<img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Fatima.jpg?raw=true" height="200">|
 |**Parssa Alimadad** <br/> **Team Leader** <br/> B.S. Electrical Engineering & Computer Science <br/> June 2025 <br/> Discipline: Circuits Design & RF Engineering<br/> <a href="https://parssa.ee" target="_blank">Website</a>, <a href="https://www.linkedin.com/in/parssa-alimadad/" target="_blank">LinkedIn</a> & [GitHub](https://github.com/theparssa27) |<img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Parssa.jpg?raw=true" height="200">|
