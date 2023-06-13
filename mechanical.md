@@ -7,13 +7,13 @@ To bring our modular vision into reality, 3D printing was the most viable option
 <img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/3D_Cell.png?raw=true" height="300">
 
 <h1>Cells Printing...</h1>
-<img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/printing3d.jpg?raw=true" height="400">
+<img class="center" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/printing3d.jpg?raw=true" height="400">
 
 <h1>1 x 2 Cell Configuration</h1>
-<img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/2_Cells.png?raw=true" height="300">
+<img class="center" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/2_Cells.png?raw=true" height="300">
 
 <h1>1 x 2 Cell Configuration Illuminated</h1>
-<img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/2_cells_prototype.jpg?raw=true" height="300"> 
+<img class="center" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/2_cells_prototype.jpg?raw=true" height="300"> 
 
 
 
@@ -24,21 +24,21 @@ To bring our modular vision into reality, 3D printing was the most viable option
 Our acrylic was laser-cut to easily combine with the cell design to sustain a perfect friction fit. This is housed inside the cells to consistently disperse the LED's illumination to make the game visually appealing and vibrant to play! 
 <br><br>
 
-<img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/acrylick.jpg?raw=true" height="300">
+<img class="center" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/acrylick.jpg?raw=true" height="300">
 
 (Easter Egg: The binary numbers on the left face of cube stand for "EEE C4", EE-Emerge Connect-4! The right face is just some circuits jargon.)
 
 
-<img src="https://cdn.discordapp.com/attachments/944292252920971304/1117764323834597467/IMG_0545.jpg" height="300">
+<img class="center" src="https://cdn.discordapp.com/attachments/944292252920971304/1117764323834597467/IMG_0545.jpg" height="300">
 
 
 
 <h1>Stand Construction</h1>
 Prototyping with a simple 2 x 2 mini-design, a triangular stand was chosen for optimal stabilization with safety in mind. The last thing that we wanted was for the board to tip over in the middle of a game, potentially injuring the player especially kids. This design was considered for its doublesided-ness similar to the traditional Connect-Four™ game; avoiding propping up the board on a wall or laying it flat on a table. For the final design, black spray-painted quarter-inch plywood was used to completely reinforce the weight of our full design.
-<img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/stand.png?raw=true" height="300">
+<img class="center" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/stand.png?raw=true" height="300">
 
 <h1>Final Design</h1>
-<img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/showcaseBoard.jpg?raw=true" height="600">
+<img class="center" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/showcaseBoard.jpg?raw=true" height="600">
 
 
 
