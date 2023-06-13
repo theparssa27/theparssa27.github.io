@@ -7,5 +7,5 @@ Embarking on the journey to create an electronic version of Connect Four™ was 
 # Demo
 An example game where red wins with a diagonal match!
 
-<img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/IMG_5321.gif?raw=true" height="600">
+<img class= "center" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/IMG_5321.gif?raw=true" >
 
