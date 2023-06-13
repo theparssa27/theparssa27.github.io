@@ -7,9 +7,3 @@ Our second PCB created was the Central PCB. One purpose of this PCB was to provi
   
 <img class="responsive" src="https://cdn.discordapp.com/attachments/944292252920971304/1118009558946828288/image.png" height="400">
 
-...
-Rough draft of this section
-<li>Describe the TI MSP430 microcontroller</li>
-<li>Debugging power issues causing bugs </li>
-<li>Button configurations </li>
-<li>(include images of MCU, buttons, a GIF could work for final product)</li>
