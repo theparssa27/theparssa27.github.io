@@ -17,6 +17,8 @@
 <img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Team.jpg?raw=true" height="400">
 
 # Picnic Day
+<img class="responsive" src="https://cdn.discordapp.com/attachments/944292252920971304/1118233749373583421/IMG_0577.png" height="400">
+<img class="responsive" src="https://cdn.discordapp.com/attachments/944292252920971304/1118233748706701353/IMG_0578.png" height="400">
 
 # Engineering Design Showcase
 <img class="responsive" src="https://cdn.discordapp.com/attachments/944292252920971304/1118222114990862428/IMG_0513.jpg" height="400">
