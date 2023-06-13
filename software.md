@@ -10,9 +10,11 @@ In the MSP430, we utilized various pins to control the I/O of our system. We use
 
 # Button Inputs
 This project mostly relied on user input from buttons. However, an issue was that the buttons would bounce when pressed, which means the signal would rapidly fluctuate when a button was pressed. Since we are sampling continuously, when the buttons would be pressed it would sometimes rapidly send either 1 or 0 when the button was pressed, which caused the program to register multiple inputs from the user even if they only pressed the button once. Though this issue could be fixed with either hardware or software, our team ultimately decided to use the software solution considering our current materials, budget and timeline. This solution involved adding functions in our program that would process the signal when the button was pressed and debounce it. These functions sampled 8 bit values from the buttons and checked whether all the 8 bits were 1 or not. If all the bits were 1 then we registered the user input and lighted up the corresponding LED, otherwise we considered the button unpressed. Additionally, the previous button state was compared to the current button state to avoid registering multiple presses in the case where the user would hold the button for a long time.
+<img class="center" src="https://cdn.discordapp.com/attachments/944292252920971304/1118007308895649892/image.png" height="500">
+
+
 # Win Condition
 When people play the board game version of Connect-Four™ they have to look for wins themselves, however for our project there are no missed wins. We designed our game to actively check for wins, which means that every time a user enters a token on the grid the program checks if the user won horizontally, vertically or diagonally. Even if the user doesn't realize they won, our program indicates to the user using their game color that they won. As soon as the user enters the token and the program determines they won, the program does not accept input from the users for 3 seconds, then displays the winning user's color for 3 seconds and resets. 
-
 Rough draft of this section
 <li>Include TI MSP430 programming compenent (most to be written in hardware)</li>
 <li>Include flowchart for code </li>
