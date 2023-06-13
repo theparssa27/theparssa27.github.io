@@ -5,7 +5,7 @@ Continuing with the theme of modularity, our software was written to be expandab
 <img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/flowchartt.jpg?raw=true" height="500">
 
 # MSP 430
-<img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/msp.png?raw=true" height="500">
+<img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/msp.png?raw=true" height="250">
 In the MSP430, we utilized various pins to control the I/O of our system. We used six I/O pins for input from our buttons. We also used P1.7 to control the array of LEDs.
 
 # Win Condition
