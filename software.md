@@ -9,11 +9,11 @@ Continuing with the theme of modularity, our software was written to be expandab
 In the MSP430, we utilized various pins to control the I/O of our system. We used six pins (P2.0, P2.1, P2.2, P1.2, P1.3, and P1.4) as our input buttons. We also used P1.5, P1.6, and P1.7 to control the array of LEDs.
 
 # Button Inputs
-This project mostly relied on user input from buttons. However, an issue faced was that the button's ordered weren't debounced already. Thus using the buttons as is would sometimes cause an user to accidentally play two turns. Though this issue could be fixed with either a hardware ot software solution, our team ultimately decided to use a software solution, considering our current materials and budget. This solution involved the button to be sampled at the clock rate of the microcontroller. Spefically, we are sampling 8 bit values from the buttons. Until all the 8 bits are 1, the button will be declared to be in the "pressed" state. Additionally, the previous button states was compared to the current button state to avoid registering multiple presses, especially if the user would hold the button for a long time.
+This project mostly relied on user input from buttons. However, an issue was that the buttons would bounce when pressed, which means the signal would rapidly fluctuate when the button was pressed. Since we are sampling continuously, when the buttons would be pressed it would sometimes rapidly send either 1 or 0 when the button was pressed. Though this issue could be fixed with either hardware or software, our team ultimately decided to use the software solution considering our current materials and budget. This solution involved adding functions in our program that would process the signal when the button was pressed and debounce it. These functions sampled 8 bit values from the buttons and checked whether all the 8 bits were 1 or not. If all the bits were 1 then we registered the user input and lighted up the corresponding LED, otherwise we considered the button unpressed. Additionally, the previous button state was compared to the current button state to avoid registering multiple presses in the case where the user would hold the button for a long time.
 
 Rough draft of this section
 <li>Include TI MSP430 programming compenent (most to be written in hardware)</li>
-<li>Include flowcahrt for code </li>
+<li>Include flowchart for code </li>
 <li>Mention button debouncing fixed through software</li>
 <li>Describe hardships with the programming, edge cases, bugs, etc</li>
 <li>(include images of a bit of code, perhaps a GIF of a demonstration, and microcontroller itself in action)</li>
