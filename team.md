@@ -2,6 +2,37 @@
 
 <!-- original: <img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Team.jpg?raw=true" height="400"> -->
 
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+  border-style: dashed;
+  border-color: #F00;
+}
+</style>
+<body>
+
+<h2>A basic HTML table</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>**Fatima Shaik** <br/> **Team Leader** <br/> B.S. Computer Engineering <br/> June 2025 <br/> Discipline: Computer Systems: Architecture & Parallel Processing <br/> <a href="https://www.linkedin.com/in/fatima-shaik/" target="_blank">LinkedIn</a> & <a href="https://github.com/fatimazshaik" target="_blank">GitHub</a></th>
+    <th><img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Fatima.jpg?raw=true" height="200"></th>
+  </tr>
+  <tr>
+    <td>A</td>
+    <td>M</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>M</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
 | | |
 |:---------------------------------------------------------:|:---------------------------------------------------:|
 |**Fatima Shaik** <br/> **Team Leader** <br/> B.S. Computer Engineering <br/> June 2025 <br/> Discipline: Computer Systems: Architecture & Parallel Processing <br/> <a href="https://www.linkedin.com/in/fatima-shaik/" target="_blank">LinkedIn</a> & [GitHub](https://github.com/fatimazshaik) |<img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Fatima.jpg?raw=true" height="200">|
@@ -15,6 +46,7 @@
 
 # Gallery
 <img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Team.jpg?raw=true" height="400">
+<img class="responsive" src="https://cdn.discordapp.com/attachments/944292252920971304/1118234572119867412/IMG_0472.jpg" height="400">
 
 # Picnic Day
 <img class="responsive" src="https://cdn.discordapp.com/attachments/944292252920971304/1118233749373583421/IMG_0577.png" height="400">
