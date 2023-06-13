@@ -32,4 +32,11 @@ $header-bg-color-secondary: #00ddff !default;
   height: auto;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 @import "{{ site.theme }}";
