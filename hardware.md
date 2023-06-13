@@ -3,7 +3,8 @@ Our hardware design starts with the NeoPixel PCBs! Retrofitted with four NeoPixe
 
 <img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/neopixel.png?raw=true" height="300">
   
-Our second PCB created was the main PCB. The main purpose of the main PCB was to provide a power source for the elements of our circuit. Thus is was critical to include a DC Power Jack that recieved power from an power outlet using a power cord. Since the ouput of the DC Power Jack was 5V, and the microntroller was required 3.3V as a power source, a regulator was necessary to take 5V and emit a 3.3V source. Furthermore, the main PCB includes Button pins and the LED pins required to allow the game to work as intended. These header was connect to the IC of the Microntroller which was also located on the PCB.
+Our second PCB created was the Central PCB. One purpose of this PCB was to provide a power source to the elements of our circuit. It was critical to include a DC Power Jack that received power from an power outlet using a power cord. Since the output of the DC Power Jack was 5V, and the microcontroller required 3.3V as a power source, a regulator was necessary to take 5V and emit a 3.3V output. Furthermore, the Central PCB includes Button pins and the LED pins required to allow the game to work as intended. These header was connect to the IC of the Microcontroller which was also located on the PCB. The IC was programmed to include the game logic.
+  
 ...
 Rough draft of this section
 <li>Describe the TI MSP430 microcontroller</li>
