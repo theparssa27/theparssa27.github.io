@@ -17,7 +17,7 @@ table, th, td {
 
 <table style="width:100%">
   <tr>
-    <th>**Fatima Shaik** <br/> **Team Leader** <br/> B.S. Computer Engineering <br/> June 2025 <br/> Discipline: Computer Systems: Architecture & Parallel Processing <br/> <a href="https://www.linkedin.com/in/fatima-shaik/" target="_blank">LinkedIn</a> & <a href="https://github.com/fatimazshaik" target="_blank">GitHub</a></th>
+    <th><b>Fatima Shaik</b> <br/> Team Leader <br/> B.S. Computer Engineering <br/> June 2025 <br/> Discipline: Computer Systems: Architecture & Parallel Processing <br/> <a href="https://www.linkedin.com/in/fatima-shaik/" target="_blank">LinkedIn</a> & <a href="https://github.com/fatimazshaik" target="_blank">GitHub</a></th>
     <th><img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Fatima.jpg?raw=true" height="200"></th>
   </tr>
   <tr>
