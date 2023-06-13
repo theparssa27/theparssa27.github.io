@@ -1,5 +1,5 @@
 # Team
-
+<img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Team.jpg?raw=true" height="400">
 | | |
 |:---------------------------------------------------------:|:---------------------------------------------------:|
 |**Fatima Shaik** <br/> **Team Leader** <br/> B.S. Computer Engineering <br/> June 2025 <br/> Discipline: Computer Systems: Architecture & Parallel Processing <br/> <a href="https://www.linkedin.com/in/fatima-shaik/" target="_blank">LinkedIn</a> & [GitHub](https://github.com/fatimazshaik) |<img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Fatima.jpg?raw=true" height="200">|
@@ -12,7 +12,6 @@
 |**Sebastian Medina** <br/> B.S. Electrical Engineering <br/> June 2025 <br/> Discipline: Quality Control <br/> <a href="https://www.linkedin.com/in/sebastian-medina-27a796276/" target="_blank">LinkedIn</a> & [GitHub](https://github.com) |<img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Sebastian.jpg?raw=true" height="200">|
 
 # Gallery
-<img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Team.jpg?raw=true" height="400">
 <img class="responsive" src="https://cdn.discordapp.com/attachments/944292252920971304/1118234572119867412/IMG_0472.jpg" height="400">
 
 # Picnic Day
