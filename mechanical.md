@@ -10,26 +10,26 @@ To bring our modular vision into reality, 3D printing was the most viable option
 <img class="center" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/printing3d.jpg?raw=true">
 
 <h1>1 x 2 Cell Configuration</h1>
-<img class="center" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/2_Cells.png?raw=true" height="300">
+<img class="center" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/2_Cells.png?raw=true">
 
 <h1>1 x 2 Cell Configuration Illuminated</h1>
-<img class="center" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/2_cells_prototype.jpg?raw=true" height="300"> 
+<img class="center" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/2_cells_prototype.jpg?raw=true"> 
 
 
 
 <h1>6 x 6 Cell Configuration</h1>
-<img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/full_board.jpg?raw=true" height="300">
+<img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/full_board.jpg?raw=true" >
 
 <h1>Acrylic Design</h1>
 Our acrylic was laser-cut to easily combine with the cell design to sustain a perfect friction fit. This is housed inside the cells to consistently disperse the LED's illumination to make the game visually appealing and vibrant to play! 
 <br><br>
 
-<img class="center" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/EEconnectLogoWhite.png?raw=true">
+<img class="center" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/acrylick.jpg?raw=true">
 
 (Logo Design: Each face of the logo represents an element of our project. The binary numbers on the left face of cube stand for "EEE C4", EE-Emerge Connect-4! The right face is circuit symbols to represent the hardware design that went to this project. The upper face of the logo is a button representing thse user input of our project.)
 
 
-<img class="center" src="https://cdn.discordapp.com/attachments/944292252920971304/1117764323834597467/IMG_0545.jpg" height="300">
+<img class="center" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/EEconnectLogoWhite.png?raw=true">
 
 
 
