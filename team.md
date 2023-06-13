@@ -1,10 +1,5 @@
-# Team
-
 <!-- original: <img src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/Team.jpg?raw=true" height="400"> -->
 
-<!DOCTYPE html>
-<html>
-<style>
 table, th, td {
   border:1px solid black;
   border-style: dashed;
@@ -29,9 +24,6 @@ table, th, td {
     <td>M</td>
   </tr>
 </table>
-
-</body>
-</html>
 
 | | |
 |:---------------------------------------------------------:|:---------------------------------------------------:|
