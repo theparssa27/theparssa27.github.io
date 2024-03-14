@@ -11,5 +11,5 @@ In the MSP430, we utilized various pins to control the I/O of our system. We use
 # Win Condition
 When people play the board game version of Connect-Four™ they have to look for wins themselves, however for our project there are no missed wins. We designed our game to actively check for wins, which means that every time a user enters a token on the grid the program checks if the user won horizontally, vertically or diagonally. Even if the user doesn't realize they won, our program indicates to the user using their game color that they won. As soon as the user enters the token the program checks vertically then diagonally then horizontally and determines the user won, if the user won then the program does not accept input from the users for 3 seconds, then displays the winning user's color for 3 seconds and resets. The game continues until the board is full or a user wins, whichever comes first. If a user wins on the last token filling up the board then their win is prioritized and the program displays their color rather than blue and resets. 
 
-<img class="responsive" src="https://cdn.discordapp.com/attachments/944292252920971304/1118242991086239764/image.png" height="250">
+<img class="responsive" src="https://github.com/theparssa27/theparssa27.github.io/blob/main/pictures/i4.png?raw=true" height="250">
 
